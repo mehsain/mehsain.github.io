@@ -1,6 +1,6 @@
 # Discord-like profile card
 
-![Discord-like profile card](/temp/preview.png)
+![image](https://user-images.githubusercontent.com/114495317/211159442-0fb19a26-d853-4114-91c9-7961433a1252.png)
 
 ## About profile card
 
